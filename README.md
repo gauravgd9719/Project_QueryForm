@@ -7,6 +7,6 @@ Requirement :
 4. Queries : Required, Edge cases handle
 
 Notes :-
-# Automatics Warm whenever user break any edge cases on the spot
-# after click on submited button all info. submitted succefuly and form will be clear
-# New_ Autosave- means when user fill name. name will be saved without submited button
+1. Automatics Warm whenever user break any edge cases on the spot
+2. after click on submited button all info. submitted succefuly and form will be clear
+3. New_ Autosave- means when user fill name. name will be saved without submited button
