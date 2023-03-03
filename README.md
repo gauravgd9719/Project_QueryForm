@@ -1,4 +1,6 @@
 # Project_QueryForm
+# About Project
+  User can take inquiry about the product, servies using given required credentials.
 
 Requirement : 
 1. Name : Required, Edge cases handle
